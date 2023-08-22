@@ -1,0 +1,8 @@
+- [首页](/ "LightZone Wiki | 觅光之境LightZone文档")
+- 起步
+  - [快速开始](wiki/rules.md)
+  - [关于客户端](wiki/faq.md)
+  - [游戏规则](wiki/rules.md)
+  - [节点与维度](wiki/server-world.md)
+- [常见问题](wiki/faq.md)
+- [关于Wiki](wiki/about-wiki.md)
