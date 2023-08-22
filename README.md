@@ -11,7 +11,7 @@ LightZone是一个Minecraft JAVA版群组服务器，是[中国Minecraft高校�
 !> 当前游戏版本 1.20.1，仅推荐你使用该版本进入游戏。  
 **为MUA联合大厅兼容性考虑，后端使用了ViaVersion及ViaBackwards，其他版本的客户端或许也可进入，但我们无法保证正常的游戏体验。**
 
-[官网](//lightzone.mevisual.top) | [常见问题](wiki/faq.md) | [快速上手](wiki/beginners-guide/quickstart.md) | [玩家守则](wiki/rules.md) | [世界地图](//lightzonemap.mevisual.top)
+[官网](//lightzone.mevisual.top) | [常见问题](wiki/faq.md) | [快速上手](wiki/quickstart.md) | [玩家守则](wiki/rules.md) | [世界地图](//lightzonemap.mevisual.top)
 
 ### 加入游戏
 
@@ -22,7 +22,7 @@ LightZone使用MUA联合认证，要登录LightZone，你至少需要一个[MUA 
 > 上海交通大学接入点:`lnu.lightzone.mevisual.top`
 
 另可在接入MUA网络的任何一个服务器中，通过`/hub LNUMC`加入本服。
-详情请阅读 [快速开始指南](wiki/beginners-guide/quickstart.md) 部分。
+详情请阅读 [快速开始指南](wiki/quickstart.md) 部分。
 
 ### 联系
 

@@ -28,7 +28,8 @@ LightZoneWiki 并不是针对 《Minecraft》 游戏本身的指南和知识库�
 
 **这并不是必要的。**但不做隐形人可以更好的融合社区，如果你只是一个游客，请忽视此项。
 * 加入[辽宁大学Minecraft同好者协会 QQGroup:`852976282`](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ZPfzlTX2aMqN_Ty1J5zYUJWjo_IHRc-M&authKey=ZndmENRvqmnGOaOS9DfW3qDnx85lSBGINmxZgfPEpzvme22BZ7wkBdZWDktSDRfs&noverify=0&group_code=852976282)
-![assets/lnuqqgroup.png](../assets/lnuqqgroup.webp)
+<!-- ![lnuqqgroup](../assets/lnuqqgroup.webp) -->
+![lnuqqgroup](https://gcore.jsdelivr.net/gh/XenWayne/sitefile@master/web/lightzoneweb/assets/lnuqqgroup.webp)
 - - -
 
 ## 2.注册皮肤站账号
@@ -73,9 +74,11 @@ LightZone的主要节点是纯净服务器，请确保本地已有对应版本�
 >手动配置参考 [Blessing Skin用户手册](https://blessing.netlify.app/yggdrasil-api/authlib-injector.html)
 
 打开你的皮肤站仪表盘，你将会看到**快速配置启动器**模块:  
-![skinmain](../assets/skinmain.webp)
+<!-- ![skinmain](../assets/skinmain.webp) -->
+![skinmain](https://gcore.jsdelivr.net/gh/XenWayne/sitefile@master/web/lightzoneweb/assets/skinmain.webp)
 将该按钮用鼠标拖拽至**启动器的主页面**松开，启动器应会弹出相关提示，通常这个过程是一键完成的，这里以PCL2的界面为例:
-![skinlauncher](../assets/skinlauncher.webp)
+<!-- ![skinlauncher](../assets/skinlauncher.webp) -->
+![skinlauncher](https://gcore.jsdelivr.net/gh/XenWayne/sitefile@master/web/lightzoneweb/assets/skinlauncher.webp)
 
 >相关视频教程:  
 [【Minecraft服务器】雕刻时光老建筑服务器外置登录教程](https://www.bilibili.com/video/BV18X4y1x7Pp/?share_source=copy_web&vd_source=7a6cb213a314151b2df861c13e2bc2d3)<sup>HMCL</sup>  
