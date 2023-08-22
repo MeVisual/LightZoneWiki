@@ -5,23 +5,24 @@ Wiki正在更新维护中。
 
 ### 关于觅光之境LightZone
 
+LightZone是一个Minecraft JAVA版群组服务器，是[中国Minecraft高校联盟](//www.mualliance.ltd/)联合认证的一部分。接入[MUA联合大厅](//docs.mualliance.cn/zh/dev/union/lobby)，目前由[@森稳XenWayne](//xenwayne.top)维护，服务于辽宁大学Minecraft同好者协会。
 服务器版本 Velocity 3.2.0 / Purpur 1.20.1
 
 !> 当前游戏版本 1.20.1，仅推荐你使用该版本进入游戏。  
 **为MUA联合大厅兼容性考虑，后端使用了ViaVersion及ViaBackwards，其他版本的客户端或许也可进入，但我们无法保证正常的游戏体验。**
 
-[官网](https://lightzone.mevisual.top) | [常见问题](wiki/faq.md) | [快速上手](wiki/beginners-guide/quickstart.md) | [游戏规则](wiki/rules.md) | [世界地图](https://lightzonemap.mevisual.top)
+[官网](//lightzone.mevisual.top) | [常见问题](wiki/faq.md) | [快速上手](wiki/beginners-guide/quickstart.md) | [玩家守则](wiki/rules.md) | [世界地图](//lightzonemap.mevisual.top)
 
 ### 加入游戏
 
-LightZone使用MUA联合认证，要登录LightZone，你至少需要一个[MUA User Center](https://skin.mualliance.ltd/)或接入MUA账号系统的数个皮肤站中的一个账户。
+LightZone使用MUA联合认证，要登录LightZone，你至少需要一个[MUA User Center](https://skin.mualliance.ltd/)或接入MUA账号系统的数个皮肤站中的一个账户并[**使用第三方登录**](wiki/quickstart?id=_4%e9%85%8d%e7%bd%ae%e5%90%af%e5%8a%a8%e5%99%a8%e7%ac%ac%e4%b8%89%e6%96%b9%e7%99%bb%e5%bd%95)，离线登录/正版登录将被拒绝连接。当前架构设计上不要求正版登录，本质目的是为了欢迎更多人。
 
 > **Minecraft服务器地址:**  
-> 低延IPv6直连接入点:ipv6.lightzone.mevisual.top <sup>(通过此方式加入不接入联合大厅)</sup>  
-> 上海交通大学接入点:lnu.lightzone.mevisual.top
+> 低延IPv6直连接入点:`ipv6.lightzone.mevisual.top` <sup>(通过此方式加入不接入联合大厅)</sup>  
+> 上海交通大学接入点:`lnu.lightzone.mevisual.top`
 
 另可在接入MUA网络的任何一个服务器中，通过`/hub LNUMC`加入本服。
-详情请阅读 [快速上手](wiki/beginners-guide/quickstart.md) 模块。
+详情请阅读 [快速开始指南](wiki/beginners-guide/quickstart.md) 部分。
 
 ### 联系
 
