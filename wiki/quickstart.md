@@ -102,7 +102,7 @@ LightZone的主要节点是纯净服务器，请确保本地已有对应版本�
 2.`lobby.mualliance.cn`<sup>MUA联合大厅_MUA上海交通大学接入点</sup>  
 通过此域名加入，你将加入到MUA联合大厅的登录服中，使用`/hub`指令在各大高校服务器中畅行。此时使用指令`/hub LNUMC`即可加入LightZone。  
 
-3.`ipv6.lightzone.mevisual.top`<sup>LNUMC_MUA上海交通大学接入点</sup>  
+3.`ipv6.lightzone.mevisual.top`<sup>LNUMC_IPv6直连接入点</sup>  
 
 !>此节点为低延迟需求设计，仅支持IPv6连接，请确认你处于IPv6网络环境下，且启动器的附加参数未关闭相关协议栈。(蜂窝网络通常都支持IPv6连接)。  
 
