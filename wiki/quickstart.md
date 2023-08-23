@@ -110,7 +110,7 @@ LightZone的主要节点是纯净服务器，请确保本地已有对应版本�
 
 ## 6.HelloWorld!
 
-如果一切正常，你将在短暂的加载世界提示后看到一个水光接天的世界，你的出生点在神樱树下，至此，本快速指南的任务完成。接下来，引导的工作将交给你周围的文字提示，开始你的探索吧。
+如果一切正常，你将在短暂的加载世界提示后看到一个水光接天的世界，你的出生点在神樱树下，你可在LightZone的多个子服间探索，详情见[子服与维度](wiki/server-world.md)页面。至此，本快速指南的任务完成。接下来，引导的工作将交给你周围的文字提示，开始你的探索吧。
 ![LightZone_Spawn](https://gcore.jsdelivr.net/gh/XenWayne/sitefile@master/web/lightzoneweb/assets/feature_bg.webp)
 
 ## 在那之后...
