@@ -1,6 +1,6 @@
 # LNU | LightZone 皮肤站隐私政策
 
-此条款仅对LNU | LightZone皮肤站生效(URL:https://mcskin.mevisual.top),声明范围不包括其他MUA联合认证皮肤站。
+此条款仅对[LNU | LightZone皮肤站](//mcskin.mevisual.top)生效,声明范围不包括其他MUA联合认证皮肤站。
 
 ## 一、我们如何收集和使用您的个人信息
 
