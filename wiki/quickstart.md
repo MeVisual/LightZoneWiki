@@ -21,7 +21,7 @@ LightZoneWiki 并不是针对 《Minecraft》 游戏本身的指南和知识库�
 *   [新手手册](https://wiki.biligame.com/mc/%E6%95%99%E7%A8%8B/%E8%8F%9C%E9%B8%9F%E6%89%8B%E5%86%8C)
 
 以下文档建立在默认您具有Minecraft多人游戏经验，且了解相关知识的基础上编写。  
-如果你加入游戏，则默认你同意[玩家守则](wiki/rules.md)
+如果你加入游戏，则默认你同意[玩家守则](policy/rules.md)
 - - -
 
 ## 1.加入玩家群组
