@@ -1,17 +1,18 @@
 ### 欢迎
-欢迎来到 LightZoneWiki,很高兴你有了解这个世界的意愿，这是一个导航页。
+欢迎来到 LightZoneWiki,很高兴你有了解这个世界的意愿，这是一个导航页。该页面可能不会及时更新。
 
 Wiki正在更新维护中。  
 
 ### 关于觅光之境LightZone
 
-LightZone是一个Minecraft JAVA版群组服务器，是[中国Minecraft高校联盟](//www.mualliance.ltd/)联合认证的一部分。接入[MUA联合大厅](//docs.mualliance.cn/zh/dev/union/lobby)，目前由[@森稳XenWayne](//xenwayne.top)维护，服务于辽宁大学Minecraft同好者协会。
-服务器版本 Velocity 3.2.0 / Purpur 1.20.1
+LightZone是一个Minecraft JAVA版群组服务器，是[中国Minecraft高校联盟](//www.mualliance.ltd/)联合认证的一部分。接入[MUA联合大厅](//docs.mualliance.cn/zh/dev/union/lobby)，目前由[@森稳XenWayne](//xenwayne.top)维护，服务于辽宁大学Minecraft同好者协会。  
+
+**当前服务器版本 Velocity 3.2.0 / Purpur 1.20.1**
 
 !> 当前游戏版本 1.20.1，仅推荐你使用该版本进入游戏。  
 **为MUA联合大厅兼容性考虑，后端使用了ViaVersion及ViaBackwards，其他版本的客户端或许也可进入，但我们无法保证正常的游戏体验。**
 
-[官网](//lightzone.mevisual.top) | [常见问题](wiki/faq.md) | [快速上手](wiki/quickstart.md) | [玩家守则](wiki/rules.md) | [世界地图](//lightzonemap.mevisual.top)
+[官网](//lightzone.mevisual.top) | [常见问题](wiki/faq.md) | [快速上手](wiki/quickstart.md) | [玩家守则](policy/rules.md) | [世界地图](//lightzonemap.mevisual.top)
 
 ### 加入游戏
 
