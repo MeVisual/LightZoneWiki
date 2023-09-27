@@ -84,7 +84,7 @@ LightZone的主要节点是纯净服务器，请确保本地已有对应版本�
 ![skinlauncher](https://gcore.jsdelivr.net/gh/XenWayne/sitefile@master/web/lightzoneweb/assets/skinlauncher.webp)
 
 >相关视频教程:  
-[【Minecraft服务器】雕刻时光老建筑服务器外置登录教程](https://www.bilibili.com/video/BV18X4y1x7Pp/?share_source=copy_web&vd_source=7a6cb213a314151b2df861c13e2bc2d3)<sup>HMCL</sup>  
+[PCL2和HMCL外置登录教程](https://www.bilibili.com/video/BV1Gb4y1H7qY/)<sup>HMCL&PCL</sup>  
 [【NSF】PCL2启动器外置登录方案](https://www.bilibili.com/video/BV15Y411j7B7/)<sup>PCL</sup>  
 
 ~~碎碎念:真有人用官启么= =~~
