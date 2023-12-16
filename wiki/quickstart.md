@@ -13,12 +13,12 @@ LightZone的账户系统，抑或是Minecraft游戏本身或许有些令人困�
 LightZoneWiki 并不是针对 《Minecraft》 游戏本身的指南和知识库，如果希望获得关于 Minecraft 游戏本身的信息，请访问：
 
 *   [中文 Minecraft Wiki](https://minecraft-zh.gamepedia.com/)
-  - 中国大陆可访问此[镜像站](https://wiki.biligame.com/mc)
+  - 中国大陆可访问此[镜像站](https://zh.minecraft.wiki/)
 *   [英文 Minecraft Wiki](http://minecraft.gamepedia.com/Minecraft_Wiki)
 
 如果这是你第一次玩 Minecraft，请首先参考官方 Wiki 的新手指南：
 
-*   [新手手册](https://wiki.biligame.com/mc/%E6%95%99%E7%A8%8B/%E8%8F%9C%E9%B8%9F%E6%89%8B%E5%86%8C)
+*   [新手手册](https://zh.minecraft.wiki/w/%E6%95%99%E7%A8%8B/%E6%96%B0%E6%89%8B%E6%89%8B%E5%86%8C)
 
 以下文档建立在默认您具有Minecraft多人游戏经验，且了解相关知识的基础上编写。  
 如果你加入游戏，则默认你同意[玩家守则](policy/rules.md)
