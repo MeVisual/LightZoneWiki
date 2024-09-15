@@ -9,8 +9,8 @@ LightZone是一个Minecraft JAVA版群组服务器，是[中国Minecraft高校�
 
 **当前服务器版本 Velocity 3.2.0 / Purpur 1.20.1**
 
-!> 当前游戏版本 1.20.1，仅推荐你使用该版本进入游戏。  
-**为MUA联合大厅兼容性考虑，后端使用了ViaVersion及ViaBackwards，其他版本的客户端或许也可进入，但我们无法保证正常的游戏体验。**
+!> 当前游戏版本 1.21.1，仅推荐你使用该版本进入游戏。  
+**为MUA联合大厅兼容性考虑，代理端使用了ViaVersion及ViaBackwards，其他版本的客户端或许也可进入，但我们无法保证正常的游戏体验。**
 
 [官网](//lightzone.mevisual.top) | [常见问题](wiki/faq.md) | [快速上手](wiki/quickstart.md) | [玩家守则](policy/rules.md) | [世界地图](//lightzonemap.mevisual.top)
 
@@ -18,12 +18,7 @@ LightZone是一个Minecraft JAVA版群组服务器，是[中国Minecraft高校�
 
 LightZone使用MUA联合认证，要登录LightZone，你至少需要一个[MUA User Center](https://skin.mualliance.ltd/)或接入MUA账号系统的数个皮肤站中的一个账户并[**使用第三方登录**](wiki/quickstart?id=_4%e9%85%8d%e7%bd%ae%e5%90%af%e5%8a%a8%e5%99%a8%e7%ac%ac%e4%b8%89%e6%96%b9%e7%99%bb%e5%bd%95)，离线登录/正版登录将被拒绝连接。当前架构设计上不要求正版登录，本质目的是为了欢迎更多人。
 
-> **Minecraft服务器地址:**  
-> 低延IPv6直连接入点:`ipv6.lightzone.mevisual.top` <sup>(通过此方式加入不接入联合大厅)</sup>  
-> 上海交通大学接入点:`lnu.lightzone.mevisual.top`
-
-另可在接入MUA网络的任何一个服务器中，通过`/hub LNUMC`加入本服。
-详情请阅读 [快速开始指南](wiki/quickstart.md) 部分。
+> **详情请阅读 [快速开始指南](wiki/quickstart.md) 部分。**
 
 ### 联系
 

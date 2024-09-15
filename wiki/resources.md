@@ -1,17 +1,20 @@
 **为遵守[Minecraft EULA协议](https://www.minecraft.net/zh-hans/eula)，我们不向你分发任何游戏副本，仅作相关周边资源推荐。**  
-需要注意的是，LightZone对客户端除版本对应外无任何要求，推荐周边资源仅为获得更好的游戏体验。你可先使用原版游戏尝试加入LightZone，并在以后逐步优化自己的客户端。
+
+!>声明：以任何方式散布修改版Minecraft客户端的行为本身违反《Minecraft最终用户许可协议》，此处仅作相关资源和方法介绍，不涉及任何游戏副本本身的分发链接。
+
+需要注意的是，LightZone对客户端除版本对应外无任何要求，推荐周边资源仅为获得更好的游戏体验。你可先使用原版游戏尝试加入LightZone，并在以后逐步优化自己的客户端。**如果该页面仍然让你觉得困惑，你也可以使用搜索引擎获取更多整合资源，或加入交流群获取帮助**。
 
 >该页面可能不会及时更新。  
 
 ## JAVA运行环境
 
-Minecraft基于Java编写，这意味着其运行需要你的操作系统正确安装并配置了Java环境(JDK/JRE)。优先推荐你安装Java 17。以下是我们推荐的发行版资源，请按操作系统和实际需求选择:
+Minecraft基于Java编写，这意味着其运行需要你的操作系统正确安装并配置了Java环境(JDK/JRE)。对于`Minecraft 1.21.1`,优先推荐你安装Java 20及以上的版本。以下是我们推荐的发行版资源，请按操作系统和实际需求选择:
 
 - **[Liberica JDK](https://bell-sw.com/pages/downloads/)**
 
 - **[Azul JDK](https://www.azul.com/downloads/)**
 
-- **[Alibaba Dragonwell17 JDK](https://github.com/dragonwell-project/dragonwell17)**
+- **[Alibaba Dragonwell](https://github.com/dragonwell-project)**
 
 - - -
 
@@ -19,19 +22,14 @@ Minecraft基于Java编写，这意味着其运行需要你的操作系统正确�
 
 >优先推荐你通过第三方启动器管理Minecraft周边资源，这将节约很多时间。  
 
-- **[PCL 2](https://afdian.net/p/0164034c016c11ebafcb52540025c377)**: 龙腾猫跃开发的启动器，支持游戏自动安装、MOD管理及下载、第三方登录等。
+- **[PCL 2](https://afdian.com/p/0164034c016c11ebafcb52540025c377)**: 龙腾猫跃开发的启动器，支持游戏自动安装、MOD管理及下载、第三方登录等。
 - **[HMCL](https://hmcl.huangyuhui.net/)**: 老牌的跨平台启动器，支持多种CPU架构，支持第三方登录、Mod 管理、 游戏自定义、 游戏自动安装等。
 
 - - -
 
-## 整合包
-!>声明：以任何方式散布修改版Minecraft客户端的行为本身违反《Minecraft最终用户许可协议》，且Mod整合包本身也具有潜在安全隐患。此处仅作资源介绍，不推荐您使用任何Mod整合包，对于整合包本身对您的计算机造成的一切后果概不负责。
-- **[[1.20.1]纯净生存整合包](https://www.mcbbs.net/thread-1452792-1-1.html)**: 来自Minecraft(我的世界)中文论坛
-
-- **[[1.20.1-1.16.5][原版整合]氮元素🔹纯净优化|舒适原版](https://www.mcbbs.net/thread-1212452-1-1.html)**: 来自Minecraft(我的世界)中文论坛
+*在这行文字以下的内容不是游玩所必需的，仅为提升游戏体验而推荐的周边资源。你可以忽略这些内容，直接使用原版游戏加入LightZone。*
 
 - - -
-
 ## 客户端侧Mod
 
 ### 游戏体验增强
@@ -47,8 +45,6 @@ Minecraft基于Java编写，这意味着其运行需要你的操作系统正确�
 - **[Ambient Sounds](https://www.curseforge.com/minecraft/mc-mods/ambient-sounds)**: 增加了环境音效，让游戏世界更加生动。
 
 - **[Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)**: 提升游戏性能的Mod，让你的游戏更加流畅。
-
-- **[Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)**: 动态光源Mod，让光源在游戏中更具真实感。
 
 - **[Iris Shaders](https://irisshaders.dev/)**:新一代光影核心
 

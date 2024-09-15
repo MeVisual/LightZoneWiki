@@ -6,7 +6,7 @@ LightZone的账户系统，抑或是Minecraft游戏本身或许有些令人困�
 
 **如果你是一名经验丰富的Minecraft玩家，熟知版本、Mod、启动器、第三方登录相关知识，那或许简短的文档更加适合你。**
 
-> 详见[MUA Docs](https://docs.mualliance.cn/zh/dev/union/lobby)，"如何访问联合大厅"部分。进入联合大厅后使用`/hub LNUMC`即可登入LightZone。
+> 详见[MUA Docs](https://docs.mualliance.cn/zh/dev/union/lobby)，"联合大厅访问教程"部分。进入联合大厅后使用`/hub LNUMC`即可登入LightZone。
 
 - - -
 
@@ -47,16 +47,17 @@ LightZone使用MUA联合认证，要登录LightZone，你至少需要一个[MUA 
 
 >[LNU | LightZone皮肤站](//mcskin.mevisual.top)  
 
-LightZone自建的皮肤站，同样接入MUA。为社区一致性考虑，目前采用邀请码制度。  
+LightZone自建的皮肤站，同样接入MUA。为社区一致性考虑，目前采用邀请码制度。如果你是新生，学信网信息未能及时更新，可以使用该站注册。
 你可通过以下渠道申请到邀请码:  
-Ⅰ.加入上述的[辽宁大学Minecraft同好者协会](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ZPfzlTX2aMqN_Ty1J5zYUJWjo_IHRc-M&authKey=ZndmENRvqmnGOaOS9DfW3qDnx85lSBGINmxZgfPEpzvme22BZ7wkBdZWDktSDRfs&noverify=0&group_code=852976282)，联系`@森稳XenWayne`或`@相思故/对江邀月`。  
+Ⅰ.加入上述的[辽宁大学Minecraft同好者协会](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ZPfzlTX2aMqN_Ty1J5zYUJWjo_IHRc-M&authKey=ZndmENRvqmnGOaOS9DfW3qDnx85lSBGINmxZgfPEpzvme22BZ7wkBdZWDktSDRfs&noverify=0&group_code=852976282)，联系`@森稳XenWayne`。  
 
 Ⅱ.邮件至xenwayne@mevisual.top  
 内容模板应至少包括:  
 ```
 你的Minecraft ID(如有，优先与正版ID一致):  
+你的QQ号(优先)或其他即时通信联系方式:
 你从何处理解到LightZone:
-[可选]证明你辽宁大学学生身份的材料(包括但不限于学生证、学信网、录取通知书等，不必包含个人隐私信息)：
+[可选]证明你辽宁大学学生身份的任意材料(包括但不限于学生证、学信网、录取通知书等，不必包含个人隐私信息)：
 ```
 !>获得邀请码后请尽快注册，在注册完成皮肤站后，请确保你通过了**邮件认证**(你将在个人仪表盘看到相关提示，部分未有此设置的皮肤站除外)，并**至少拥有一个角色**，完成一切工作后，你也可在此上传皮肤，一切就像使用LittleSkin那样。
 
@@ -64,7 +65,7 @@ LightZone自建的皮肤站，同样接入MUA。为社区一致性考虑，目�
 
 ## 3.准备客户端
 **如果你熟练使用启动器下载、配置游戏，请跳过这部分。**  
-LightZone的主要节点是纯净服务器，请确保本地已有对应版本的客户端。客户端侧Mod可随意，影响游戏平衡的除外。如果你对于Minecraft客户端的Mod构成不了解或不善于研究客户端本身，欢迎访问[【推荐资源】](wiki/resources.md)页面。
+LightZone的主要节点是纯净服务器，请确保本地已有对应版本<sup>(当前版本详见[首页](/))</sup>的客户端。客户端侧Mod可随意，影响游戏平衡的除外。如果你对于Minecraft客户端的Mod构成不了解或不善于研究客户端本身，欢迎访问[【推荐资源】](wiki/resources.md)页面，使用其中的第三方启动器能方便的下载游戏版本、Mod加载器、Mod等。
 
 - - -
 
@@ -94,23 +95,33 @@ LightZone的主要节点是纯净服务器，请确保本地已有对应版本�
 恭喜你，在使用第三方登录启动游戏后，此时你已经可以添加并加入服务器。  
 在多人游戏中添加服务器时，你有以下方式可选择:  
 
-1.`lnu.lightzone.mevisual.top`<sup>LNUMC_MUA上海交通大学接入点</sup>  
+!>MUA联合大厅的接入点常有变动，此页面可能不会及时更新，详见[MUA Docs](https://docs.mualliance.cn/zh/dev/union/lobby)
+
+>1.【默认推荐】`lnu.lightzone.mevisual.top`<sup>LNUMC_MUA上海交通大学接入点</sup>  
+
 通过此域名加入，你将直接加入LightZone中，同时也可使用MUA联合大厅的全部功能，使用`/hub`指令在各大高校服务器中畅行。本服的唯一标识是`LNUMC`。  
 
-<small>注：我们已经注意到了北方地区在该节点的延迟略高问题，总体上目前阶段不影响游戏体验，待商讨。</small> 
+>2.MUA联合大厅的其他接入点:
+```
+上交接入点：lobby.mualliance.cn / mua.sjmc.club
+浙江接入点：hb.mualliance.cn
+湖北接入点：imu.mualliance.cn / unions.imucraft.cn / unions6.imucraft.cn （IPv6）
+```
 
-2.`lobby.mualliance.cn`<sup>MUA联合大厅_MUA上海交通大学接入点</sup>  
-通过此域名加入，你将加入到MUA联合大厅的登录服中，使用`/hub`指令在各大高校服务器中畅行。此时使用指令`/hub LNUMC`即可加入LightZone。  
+通过这些域名加入，你将加入到MUA联合大厅的默认登录服务器中，你可以在这里使用`/hub`指令在各大高校服务器中畅行，前往本服的指令是`/hub LNUMC`。
 
-3.`ipv6.lightzone.mevisual.top`<sup>LNUMC_IPv6直连接入点</sup>  
+>*3.特殊节点:`ipv6.lightzone.mevisual.top`<sup>LNUMC_IPv6直连接入点</sup>  
 
-!>此节点为低延迟需求设计，仅支持IPv6连接，请确认你处于IPv6网络环境下，且启动器的附加参数未关闭相关协议栈。(蜂窝网络通常都支持IPv6连接)。  
+!>此节点为部分低延迟需求设计，供有相关经验的玩家使用。仅支持IPv6连接，请确认你处于IPv6网络环境下，且启动器的附加参数未关闭相关协议栈。(蜂窝网络通常都支持IPv6连接)。  
 
 通过此域名加入，你将直接加入LightZone中，**但不可使用MUA联合大厅的相关功能**，`/hub`在此**不可用**。 
 
+
+此外，你可以从MUA成员服中的任何一个服务器中使用`/hub LNUMC`指令前往LightZone。需要注意的是，各成员服的部署进度可能不尽相同，在跨接入点时可能会遇到一些连接问题，请静待修复。值得一提的是，由于网络环境的不同，在某些地区或时间段，默认推荐的接入点可能不是最佳选择，十分建议你在多人服务器列表中添加多个接入方式，以对比其延迟和稳定性，择优选择。
+
 ## 6.HelloWorld!
 
-如果一切正常，你将在短暂的加载世界提示后看到一个水光接天的世界，你的出生点在神樱树下，你可在LightZone的多个子服间探索，详情见[子服与维度](wiki/server-world.md)页面。至此，本快速指南的任务完成。接下来，引导的工作将交给你周围的文字提示，开始你的探索吧。
+如果一切正常，你将在短暂的加载世界提示后看到一个水光接天的世界，你的出生点在神樱树下，你可在LightZone的多个子服间探索，详情见[子服与维度](wiki/server-world.md)页面。至此，本快速指南的任务完成。你能在面前看到前往传送大厅、留言板、以及相关文字介绍，接下来，引导的工作将交给你周围的文字提示，开始你的探索吧。
 ![LightZone_Spawn](https://gcore.jsdelivr.net/gh/XenWayne/sitefile@master/web/lightzoneweb/assets/feature_bg.webp)
 
 ## 在那之后...
