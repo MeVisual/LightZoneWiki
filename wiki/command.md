@@ -34,7 +34,7 @@
 ## VeinMiner | 连锁采集相关 <sup>仅Oriland节点可用</sup>
 *完整VeinMiner文档见[VeinMiner | SpigotMC](https://www.spigotmc.org/resources/veinminer.12038/)*  
 `/veinminer toggle` 开启/关闭连锁采集  
-`/veinminer mode 模式名` 切换连锁采集触发模式
+`/veinminer mode 模式名` 切换连锁采集触发模式  
 *连锁采集模式名解释如下:*
 - `always` 总是触发
 - `sneak` 仅在潜行时触发
