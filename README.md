@@ -7,7 +7,7 @@ Wiki正在更新维护中。
 
 LightZone是一个Minecraft JAVA版群组服务器，是[中国Minecraft高校联盟](//www.mualliance.ltd/)联合认证的一部分。接入[MUA联合大厅](//docs.mualliance.cn/zh/dev/union/lobby)，目前由[@森稳XenWayne](//xenwayne.top)维护，服务于辽宁大学Minecraft同好者协会。  
 
-**当前服务器版本 Velocity 3.2.0 / Purpur 1.20.1**
+**当前服务器版本 Velocity 3.3.0 / Purpur 1.21.1**
 
 !> 当前游戏版本 1.21.1，仅推荐你使用该版本进入游戏。  
 **为MUA联合大厅兼容性考虑，代理端使用了ViaVersion及ViaBackwards，其他版本的客户端或许也可进入，但我们无法保证正常的游戏体验。**
