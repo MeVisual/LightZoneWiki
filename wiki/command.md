@@ -2,7 +2,7 @@
 *默认使用`T`键或`/`键打开聊天框。此页介绍大部分情况下都可用的指令，某些特殊情况独占的指令不会在此提及，请查看相关子服节点的游戏内说明。该页面可能不会及时更新。绝大部分命令都可使用`Tab`键智能补全。*
 
 ## Server | 服务器基础相关
-`/hub 服务器标识符` **(仅MUA网络下可用)**前往其他MUA成员的服务器  
+`/hub 服务器标识符`  **(\*仅MUA网络下可用)** 前往其他MUA成员的服务器  
 `/server Oriland` 进入Oriland子服  
 `/server Pixeltale` 进入Pixeltale子服  
 `/server Forecus` 进入Forecus子服    
