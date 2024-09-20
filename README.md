@@ -5,7 +5,11 @@ Wiki正在更新维护中。
 
 ### 关于觅光之境LightZone
 
-LightZone是一个Minecraft JAVA版群组服务器，是[中国Minecraft高校联盟](//www.mualliance.ltd/)联合认证的一部分。接入[MUA联合大厅](//docs.mualliance.cn/zh/dev/union/lobby)，目前由[@森稳XenWayne](//xenwayne.top)维护，服务于辽宁大学Minecraft同好者协会。  
+LightZone是一个Minecraft JAVA版群组服务器，是[中国Minecraft高校联盟](//www.mualliance.ltd/)联合认证的一部分。接入[MUA联合大厅](//docs.mualliance.cn/zh/dev/union/lobby)，目前由[@森稳XenWayne](//xenwayne.top)维护，服务于辽宁大学Minecraft同好者协会。 
+
+?> 另:当前维护人是21级学生，精力有限，望有兴趣和能力搭建群组服、了解littleskin server和frp相关知识，有可本地或云端24h稳定运行的计算资源的同学接管LightZone，新生优先，有意联系[@森稳XenWayne](//xenwayne.top)。
+
+>
 
 **当前服务器版本 Velocity 3.3.0 / Purpur 1.21.1**
 
