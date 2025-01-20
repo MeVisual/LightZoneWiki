@@ -8,7 +8,7 @@
 
 >无法连接至服务器:Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'clientbound/minecraft:game_profile'
 
-该问题通常是由于你使用了错误的皮肤站登录，请再次检查你的账号和皮肤站的对应关系，或使用纯净客户端重试。关于MUA UUID绑定系统，参见[MUA Docs - 联合认证](https://docs.mualliance.cn/zh/dev/union/auth)
+该问题通常是由于你使用了错误的皮肤站登录，请再次检查你的账号和皮肤站的对应关系，或使用纯净客户端重试。关于MUA UUID绑定系统，参见[MUA Docs - 联合认证](https://docs.mualliance.cn/zh/dev/union/auth)。
 
 >启动器启动游戏进程卡在登录
 
