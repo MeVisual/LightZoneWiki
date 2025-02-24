@@ -24,13 +24,14 @@ LightZoneWiki 并不是针对 《Minecraft》 游戏本身的指南和知识库�
 如果你加入游戏，则默认你同意[玩家守则](policy/rules.md)
 - - -
 
-## 1.加入玩家群组
+## 1.加入玩家社区
 
 **这并不是必要的。**但不做隐形人可以更好的融合社区，如果你只是一个游客，请忽视此项。
-* 加入[辽宁大学Minecraft同好者协会 QQGroup:`852976282`](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ZPfzlTX2aMqN_Ty1J5zYUJWjo_IHRc-M&authKey=ZndmENRvqmnGOaOS9DfW3qDnx85lSBGINmxZgfPEpzvme22BZ7wkBdZWDktSDRfs&noverify=0&group_code=852976282)  
+> 1、[辽宁大学MC交流协会 QQGroup:`811936070`](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=-KDIiXfwN5OinUV3E7-FgrbZW7LdZlOt&authKey=6G35PuWqzWFkOiUToHYD2HnuNgaVz5e4K7SpP6tecq2xJzQ4ZoMyf7aDzvMRwl6r&noverify=0&group_code=811936070)  
 
-<!-- ![lnuqqgroup](../assets/lnuqqgroup.webp) -->
-![lnuqqgroup](https://gcore.jsdelivr.net/gh/XenWayne/sitefile@master/web/lightzoneweb/assets/lnuqqgroup.webp)
+> 2、[LNUMC KOOK频道:`https://kook.vip/gZtgWl`](https://kook.vip/gZtgWl)
+<iframe src="https://kookapp.cn/widget?id=6675443582650852&theme=light" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+
 - - -
 
 ## 2.注册皮肤站账号
@@ -41,7 +42,7 @@ LightZone使用MUA联合认证，要登录LightZone，你至少需要一个[MUA 
 对于本站，向你推荐如下选择:
 >[MUA User Center](//skin.mualliance.ltd) <sub>(优先选择)</sub>  
 
-注册要求和流程详见其注册页面说明。
+请使用PC端访问，注册要求和流程详见其注册页面说明。
 
 - - -
 
@@ -103,9 +104,11 @@ LightZone的主要节点是纯净服务器，请确保本地已有对应版本<s
 
 >2.MUA联合大厅的其他接入点:
 ```
-上交接入点：lobby.mualliance.cn / mua.sjmc.club
+上交接入点：lobby.mualliance.cn / mua.sjmc.club （支持IPv6）
 浙江接入点：hb.mualliance.cn
 湖北接入点：imu.mualliance.cn / unions.imucraft.cn / unions6.imucraft.cn （IPv6）
+四川接入点：taru.mualliance.cn / mcs.taru.xj.cn / union.mc.taru.xj.cn
+北京接入点：bj.mualliance.cn / union-bgp.imucraft.cn
 ```
 
 通过这些域名加入，你将加入到MUA联合大厅的默认登录服务器中，你可以在这里使用`/hub`指令在各大高校服务器中畅行，前往本服的指令是`/hub LNUMC`。
