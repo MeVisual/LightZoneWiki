@@ -50,9 +50,9 @@ LightZone使用MUA联合认证，要登录LightZone，你至少需要一个[MUA 
 
 LightZone自建的皮肤站，同样接入MUA。为社区一致性考虑，目前采用邀请码制度。如果你是新生，学信网信息未能及时更新，可以使用该站注册。
 你可通过以下渠道申请到邀请码:  
-Ⅰ.加入上述的[辽宁大学Minecraft同好者协会](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ZPfzlTX2aMqN_Ty1J5zYUJWjo_IHRc-M&authKey=ZndmENRvqmnGOaOS9DfW3qDnx85lSBGINmxZgfPEpzvme22BZ7wkBdZWDktSDRfs&noverify=0&group_code=852976282)，联系`@redsaber(2134194223)`。  
+Ⅰ.加入上述的`辽宁大学Minecraft同好会`，联系`@redsaber(2134194223)`。  
 
-Ⅱ.邮件至xenwayne@mevisual.top  
+Ⅱ.邮件至`xenwayne@mevisual.top`  
 内容模板应至少包括:  
 ```
 你的Minecraft ID(如有，优先与正版ID一致):  
