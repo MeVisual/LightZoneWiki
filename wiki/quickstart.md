@@ -96,19 +96,26 @@ LightZone的主要节点是纯净服务器，请确保本地已有对应版本<s
 恭喜你，在使用第三方登录启动游戏后，此时你已经可以添加并加入服务器。  
 在多人游戏中添加服务器时，你有以下方式可选择:  
 
-!>MUA联合大厅的接入点常有变动，此页面可能不会及时更新，详见[MUA Docs](https://docs.mualliance.cn/zh/dev/union/lobby)
+!>值得一提的是，由于网络环境的不同，在某些地区或时间段，默认推荐的接入点可能不是最佳选择，十分建议你在多人服务器列表中添加多个接入方式，以对比其延迟和稳定性，择优选择。
 
->1.【默认推荐】`lnu.lightzone.mevisual.top`<sup>LNUMC_MUA上海交通大学接入点</sup>  
+>1.接入MUA联合大厅的LightZone域名:  
 
-通过此域名加入，你将直接加入LightZone中，同时也可使用MUA联合大厅的全部功能，使用`/hub`指令在各大高校服务器中畅行。本服的唯一标识是`LNUMC`。  
+`lnu.lightzone.mevisual.top`<sup>LNUMC_MUA北京接入点【默认推荐】</sup>  
+`lnu_sh.lightzone.mevisual.top`<sup>LNUMC_MUA上海交通大学接入点</sup>
+
+通过上述域名加入，你将直接加入LightZone中，同时也可使用MUA联合大厅的全部功能，使用`/hub`指令在各大高校服务器中畅行。本服的唯一标识是`LNUMC`。  
 
 >2.MUA联合大厅的其他接入点:
+
+!>MUA联合大厅的接入点常有变动，此页面可能不会及时更新，详见[MUA Docs](https://docs.mualliance.cn/zh/dev/union/lobby)
+
 ```
 上交接入点：lobby.mualliance.cn / mua.sjmc.club （支持IPv6）
 浙江接入点：hb.mualliance.cn
 湖北接入点：imu.mualliance.cn / unions.imucraft.cn / unions6.imucraft.cn （IPv6）
 四川接入点：taru.mualliance.cn / mcs.taru.xj.cn / union.mc.taru.xj.cn
 北京接入点：bj.mualliance.cn / union-bgp.imucraft.cn
+四川接入点2：union-sc.imucraft.cn
 ```
 
 通过这些域名加入，你将加入到MUA联合大厅的默认登录服务器中，你可以在这里使用`/hub`指令在各大高校服务器中畅行，前往本服的指令是`/hub LNUMC`。
@@ -120,7 +127,7 @@ LightZone的主要节点是纯净服务器，请确保本地已有对应版本<s
 通过此域名加入，你将直接加入LightZone中，**但不可使用MUA联合大厅的相关功能**，`/hub`在此**不可用**。 
 
 
-此外，你可以从MUA成员服中的任何一个服务器中使用`/hub LNUMC`指令前往LightZone。需要注意的是，各成员服的部署进度可能不尽相同，在跨接入点时可能会遇到一些连接问题，请静待修复。值得一提的是，由于网络环境的不同，在某些地区或时间段，默认推荐的接入点可能不是最佳选择，十分建议你在多人服务器列表中添加多个接入方式，以对比其延迟和稳定性，择优选择。
+此外，你可以从MUA成员服中的任何一个服务器中使用`/hub LNUMC`指令前往LightZone。需要注意的是，各成员服的游戏更新部署进度可能不尽相同，在跨接入点时可能会遇到一些连接问题，请静待修复。
 
 ## 6.HelloWorld!
 
