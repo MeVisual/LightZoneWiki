@@ -100,8 +100,8 @@ LightZone的主要节点是纯净服务器，请确保本地已有对应版本<s
 
 >1.接入MUA联合大厅的LightZone域名:  
 
-`lnu.lightzone.mevisual.top`<sup>LNUMC_MUA北京接入点【默认推荐】</sup>  
-`lnu_sh.lightzone.mevisual.top`<sup>LNUMC_MUA上海交通大学接入点</sup>
+`lnu.lightzone.mevisual.top`<sup>LNUMC_MUA上海交通大学接入点【默认】</sup>  
+`lnu_bj.lightzone.mevisual.top`<sup>LNUMC_MUA北京接入点</sup>
 
 通过上述域名加入，你将直接加入LightZone中，同时也可使用MUA联合大厅的全部功能，使用`/hub`指令在各大高校服务器中畅行。本服的唯一标识是`LNUMC`。  
 
