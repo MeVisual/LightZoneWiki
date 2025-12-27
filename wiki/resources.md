@@ -8,7 +8,7 @@
 
 ## JAVA运行环境
 
-Minecraft基于Java编写，这意味着其运行需要你的操作系统正确安装并配置了Java环境(JDK/JRE)。对于`Minecraft 1.21.1`,优先推荐你安装Java 20及以上的版本。以下是我们推荐的发行版资源，请按操作系统和实际需求选择:
+Minecraft基于Java编写，这意味着其运行需要你的操作系统正确安装并配置了Java运行环境(JDK/JRE)。对于`Minecraft 1.21+`,优先推荐你安装Java 21及以上的版本。以下是我们推荐的发行版资源，请按操作系统和实际需求选择:
 
 - **[Liberica JDK](https://bell-sw.com/pages/downloads/)**
 
