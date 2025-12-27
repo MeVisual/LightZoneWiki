@@ -11,7 +11,7 @@ LightZone是一个Minecraft JAVA版群组服务器，是[中国Minecraft高校�
 
 >
 
-**当前服务器版本 Velocity 3.4.0 / Purpur 1.21.6**
+**当前服务器原生版本 Velocity 3.4.0 / Purpur 1.21.10**
 
 !> 仅推荐你使用当前服务器对应版本进入游戏。  
 **为MUA联合大厅兼容性考虑，代理端使用了ViaVersion及ViaBackwards，其他版本的客户端或许也可进入，但我们无法保证正常的游戏体验。**
