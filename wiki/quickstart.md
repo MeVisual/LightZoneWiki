@@ -26,7 +26,7 @@ LightZoneWiki 并不是针对 《Minecraft》 游戏本身的指南和知识库�
 
 ## 1.加入玩家社区
 
-**这并不是必要的。**但不做隐形人可以更好的融合社区，如果你只是一个游客，请忽视此项。
+**这并不是必要的。**但不做隐形人可以更好的融合社区，如果你只想做一个游客，请忽视此项，just take it easy :)
 > 1、[辽宁大学MC交流协会 QQGroup:`811936070`](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=-KDIiXfwN5OinUV3E7-FgrbZW7LdZlOt&authKey=6G35PuWqzWFkOiUToHYD2HnuNgaVz5e4K7SpP6tecq2xJzQ4ZoMyf7aDzvMRwl6r&noverify=0&group_code=811936070)  
 
 > 2、[LNUMC KOOK频道:`https://kook.vip/gZtgWl`](https://kook.vip/gZtgWl)
@@ -42,16 +42,18 @@ LightZone使用MUA联合认证，要登录LightZone，你至少需要一个[MUA 
 对于本站，向你推荐如下选择:
 >[MUA User Center](//skin.mualliance.ltd) <sub>(优先选择)</sub>  
 
-请使用PC端访问，注册要求和流程详见其注册页面说明。
+请使用PC端访问，注册要求和流程详见其注册页面说明。  
+对于辽宁大学的同学，如有教育域名邮箱相关需求，详见：[辽宁大学学生邮箱使用指南-辽宁大学信息化中心](https://www.lnu.edu.cn/info/15026/81962.htm)
 
 - - -
 
 >[LNU | LightZone皮肤站](//mcskin.mevisual.top)  
 
-LightZone自建的皮肤站，同样接入MUA。为社区一致性考虑，目前采用邀请码制度。如果你是新生，学信网信息未能及时更新，可以使用该站注册。
+LightZone自建的皮肤站，同样接入MUA。为社区一致性考虑，目前采用邀请码制度。  
+如果你是新生，学信网信息未能及时更新，可以使用该站注册。
 你可通过以下渠道申请到邀请码:  
-Ⅰ.加入上述的`辽宁大学Minecraft同好会`，联系`@redsaber(2134194223)`。  
 
+Ⅰ.加入上述的`辽宁大学Minecraft同好会`交流群，联系`@redsaber(2134194223)`。  
 Ⅱ.邮件至`xenwayne@mevisual.top`  
 内容模板应至少包括:  
 ```
@@ -66,7 +68,7 @@ LightZone自建的皮肤站，同样接入MUA。为社区一致性考虑，目�
 
 ## 3.准备客户端
 **如果你熟练使用启动器下载、配置游戏，请跳过这部分。**  
-LightZone的主要节点是纯净服务器，请确保本地已有对应版本<sup>(当前版本详见[首页](/))</sup>的客户端。客户端侧Mod可随意，影响游戏平衡的除外。如果你对于Minecraft客户端的Mod构成不了解或不善于研究客户端本身，欢迎访问[【推荐资源】](wiki/resources.md)页面，使用其中的第三方启动器能方便的下载游戏版本、Mod加载器、Mod等。
+LightZone的主要节点是纯净服务器，请确保本地已有对应版本<sup>(当前版本详见[首页](/))</sup>的客户端。客户端侧Mod可随意，影响游戏平衡的除外。如果你对于Minecraft客户端的Mod构成不了解或不善于研究客户端本身，可以去上述玩家社区寻求帮助，亦欢迎访问[【推荐资源】](wiki/resources.md)页面，使用其中的第三方启动器能方便的下载游戏版本、Mod加载器、Mod等。
 
 - - -
 
