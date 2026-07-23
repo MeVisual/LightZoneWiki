@@ -53,7 +53,7 @@ LightZone自建的皮肤站，同样接入MUA。为社区一致性考虑，目�
 如果你是新生，学信网信息未能及时更新，可以使用该站注册。
 你可通过以下渠道申请到邀请码:  
 
-Ⅰ.加入上述的`辽宁大学Minecraft同好会`交流群，联系`@redsaber(2134194223)`。  
+Ⅰ.加入上述的`辽宁大学Minecraft同好会`交流群，联系`@redsaber(2134194223) / @XingChen(1724693011) / @Destiny(1564932340)`。  
 Ⅱ.邮件至`xenwayne@mevisual.top`  
 内容模板应至少包括:  
 ```
@@ -114,10 +114,12 @@ LightZone的主要节点是纯净服务器，请确保本地已有对应版本<s
 ```
 上交接入点：lobby.mualliance.cn / mua.sjmc.club （支持IPv6）
 浙江接入点：hb.mualliance.cn
-湖北接入点：imu.mualliance.cn / unions.imucraft.cn / unions6.imucraft.cn （IPv6）
-四川接入点：taru.mualliance.cn / mcs.taru.xj.cn / union.mc.taru.xj.cn
+深圳接入点：imu.mualliance.cn / unions.imucraft.cn
 北京接入点：bj.mualliance.cn / union-bgp.imucraft.cn
-四川接入点2：union-sc.imucraft.cn
+广州接入点：union-sc.imucraft.cn
+四川接入点：union-cdc.mc.taru.xj.cn
+新疆接入点：union.mc.taru.xj.cn
+马来西亚接入点：union-my.mc.taru.xj.cn
 ```
 
 通过这些域名加入，你将加入到MUA联合大厅的默认登录服务器中，你可以在这里使用`/hub`指令在各大高校服务器中畅行，前往本服的指令是`/hub LNUMC`。
