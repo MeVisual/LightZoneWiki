@@ -117,11 +117,13 @@ LightZone的主要节点是纯净服务器，请确保本地已有对应版本<s
 上交接入点：lobby.mualliance.cn / mua.sjmc.club （支持IPv6）
 浙江接入点：hb.mualliance.cn
 深圳接入点：imu.mualliance.cn / unions.imucraft.cn
-北京接入点：bj.mualliance.cn / union-bgp.imucraft.cn
+北京接入点：bj.mualliance.cn / union-bgp.imucraft.cn （支持IPv6）
 广州接入点：union-sc.imucraft.cn
 四川接入点：union-cdc.mc.taru.xj.cn
 新疆接入点：union.mc.taru.xj.cn
+香港接入点：hk.u.jsumc.fun （支持IPv6）
 马来西亚接入点：union-my.mc.taru.xj.cn
+美国接入点：us.u.jsumc.fun
 ```
 
 通过这些域名加入，你将加入到MUA联合大厅的默认登录服务器中，你可以在这里使用`/hub`指令在各大高校服务器中畅行，前往本服的指令是`/hub LNUMC`。
