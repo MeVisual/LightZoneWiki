@@ -1,5 +1,7 @@
 # 快速开始指南
 
+LNUMC是[Minecraft高校联盟](https://www.mualliance.cn/)的成员，使用[Union联合认证](https://www.mualliance.cn/archives/2097)，因此登入过程可能和您所常用的配置方式不同。  
+
 LightZone的账户系统，抑或是Minecraft游戏本身或许有些令人困惑。本指南旨在为新玩家提供一个简洁明了的以最快速度登入LightZone的方式。该文档所提到的信息具有时效性，可能随着架构更新而改变，还请知悉。
 
 ## 前言
@@ -34,7 +36,7 @@ LightZoneWiki 并不是针对 《Minecraft》 游戏本身的指南和知识库�
 
 - - -
 
-## 2.注册皮肤站账号
+## 2.注册用户系统账号
 
 LightZone使用MUA联合认证，要登录LightZone，你至少需要一个[MUA User Center](https://skin.mualliance.ltd/)或接入MUA账号系统的[数个皮肤站](https://docs.mualliance.cn/zh/dev/union/lobby)中的一个账户。
 
